@@ -1,0 +1,31 @@
+[
+    {
+        "order_id": 1,
+        "customer_name": "Dhara",
+        "items": [
+            "Bhajipav",
+            "Pulav"
+        ],
+        "total_amount": 1200.0,
+        "status": "Pending"
+    },
+    {
+        "order_id": 2,
+        "customer_name": "Mahi",
+        "items": [
+            "Burger"
+        ],
+        "total_amount": 2000.0,
+        "status": "Pending"
+    },
+    {
+        "order_id": 3,
+        "customer_name": "Disha",
+        "items": [
+            "Pizza",
+            "Burger"
+        ],
+        "total_amount": 500.0,
+        "status": "Delivered"
+    }
+]
