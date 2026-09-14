@@ -1,0 +1,18 @@
+order,Order Date,Quarter,Day,Dish Name,Food Type,Price (INR),Rating,Rating Count
+1,6/29/2025,Q2,Sun,Butter Murukku-200gm,Veg,133.9,4.0,0
+2,4/3/2025,Q2,Thu,Badam Milk,Veg,52.0,4.5,25
+3,1/15/2025,Q1,Wed,Chow Chow Bath,Veg,117.0,4.7,48
+4,4/17/2025,Q2,Thu,Kesari Bath,Veg,65.0,4.6,65
+5,3/13/2025,Q1,Thu,Mix Raitha,Veg,130.0,4.0,0
+6,7/8/2025,Q3,Tue,Srinidhi Sagar Special,Veg,312.0,4.0,0
+7,1/21/2025,Q1,Tue,Garlic Naan,Veg,98.0,4.0,34
+8,4/13/2025,Q2,Sun,Pista,Veg,137.0,4.0,0
+9,5/2/2025,Q2,Fri,Panneer Butter Masala,Veg,241.0,4.4,29
+10,7/30/2025,Q3,Wed,Dal Tadka,Veg,195.0,4.9,51
+11,8/3/2025,Q3,Sun,Kaju Masla,Veg,312.0,4.0,0
+12,3/16/2025,Q1,Sun,Palak Panner,Veg,234.0,4.0,0
+13,7/22/2025,Q3,Tue,Panneer Kofta,Veg,286.0,4.0,0
+14,3/29/2025,Q1,Sat,Panneer Burji,Veg,312.0,4.0,0
+15,4/27/2025,Q2,Sun,Panneer Shahi Kurma,Veg,286.0,4.8,4
+16,4/10/2025,Q2,Thu,Malai Kofta,Veg,260.0,4.5,26
+17,4/14/2025,Q2,Mon,Navarathna Kurma (Sweet Dish),Veg,299.0,4.0,0

@@ -1,0 +1,16 @@
+player_name,runs,matches,average,strike_rate,team1,team 2,winner,match_margin_type,get_margin_type
+Shubman Gill,890,17,59.33,157.8,3,2,2,Runs,Runs
+Faf du Plessis,730,14,56.15,153.68,4,2,1,Wickets,Runs
+Devon Conway,672,16,51.69,139.7,5,2,1,Tie/No Result,Runs
+Virat Kohli,639,14,53.25,139.82,5,2,4,Runs,Runs
+Yashasvi Jaiswal,625,14,48.08,163.61,4,22,5,Runs,Runs
+Ruturaj Gaikwad,590,16,42.14,147.5,5,1,6,Runs,Runs
+David Warner,516,14,36.86,131.63,6,1,7,Wickets,Wickets
+Rinku Singh,474,14,59.25,149.52,2,4,8,Wickets,Wickets
+Ishan Kishan,454,15,30.27,142.77,2,5,9,Runs,Runs
+Heinrich Klaasen,448,12,49.78,177.07,4,7,0,Wickets,Wickets
+Suryakumar Yadav,605,16,43.21,181.14,5,8,3,Tie/No Result,Wickets
+Sanju Samson,362,14,30.17,153.39,6,9,1,Wickets,Wickets
+Rohit Sharma,332,16,20.75,120,7,9,1,Wickets,Runs
+KL Rahul,274,9,34.25,113.24,8,9,3,Tie/No Result,Wickets
+Hardik Pandya,346,16,24.71,136.76,9,3,4,Wickets,Wickets

@@ -1,0 +1,20 @@
+Customer_ID,Customer Name,Gender,Age,Email,Phone,City,State,Order_Date
+540,Nisha Mistry,MALE,21,nisha.mistry783@example.com,+91 8992928946,Delhi,Delhi,9/27/2024
+444,Ishaan Desai,FEMALE,58,ishaan.desai125@example.com,+91 8393774816,Jaipur,Rajasthan,8/11/2024
+526,Meera Mistry,MALE,43,meera.mistry636@example.com,+91 8263513519,Bengaluru,Karnataka,1/9/2024
+132,Meera Singh,FEMALE,39,meera.singh194@example.com,+91 7824656200,Hyderabad,Telangana,11/12/2024
+963,Neel Mehta,FEMALE,27,neel.mehta350@example.com,+91 9860582992,Kolkata,West Bengal,7/10/2024
+884,Ananya Shah,FEMALE,45,ananya.shah164@example.com,+91 8438144288,Chennai,Tamil Nadu,9/11/2025
+20,Isha Mistry,MALE,46,isha.mistry204@example.com,+91 8811967841,Ahmedabad,Gujarat,7/15/2024
+204,Aditya Gupta,MALE,42,aditya.gupta62@example.com,+91 9598323977,Hyderabad,Telangana,7/14/2024
+155,Ananya Rao,MALE,28,ananya.rao307@example.com,+91 9738900744,Mumbai,Maharashtra,7/9/2025
+167,Karan Trivedi,MALE,59,karan.trivedi516@example.com,+91 9021155136,Delhi,Delhi,10/15/2024
+981,Kavya Mistry,MALE,65,kavya.mistry700@example.com,+91 7227720318,Chennai,Tamil Nadu,8/21/2025
+327,Rohan Rao,FEMALE,37,rohan.rao238@example.com,+91 8422996266,Rajkot,Gujarat,12/29/2024
+332,Karan Mistry,MALE,61,karan.mistry205 @example.com,+91 9691599845,Rajkot,Gujarat,6/27/2025
+222,Isha Kapoor,MALE,46,isha.kapoor975@example.com,+91 8158638062,Pune,Maharashtra,1/6/2024
+352,Priya Kapoor,MALE,57,priya.kapoor349@example.com,+91 9032093686,delhi,Delhi,4/10/2025
+420,Riya Gupta,FEMALE,55,riya.gupta225@example.com,+91 7730672201,Mumbai,Maharashtra,11/21/2025
+532,  Aditi Trivedi  ,FEMALE,41,aditi.trivedi504@example.com,+91 9492235444,Vadodara,Gujarat,8/4/2025
+255,Ishaan Mehta,MALE,41,ishaan.mehta266@example.com,+91 9787052438,Pune,Maharashtra,1/4/2025
+888,Sneha Rao,FEMALE,53,sneha.rao402@example.com,+91 9313901761,Vadodara,Gujarat,9/8/2024
