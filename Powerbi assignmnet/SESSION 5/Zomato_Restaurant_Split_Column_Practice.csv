@@ -1,0 +1,31 @@
+Restaurant_ID,Restaurant Name - Area,Cuisine,Rating
+1,Spice Garden - Navrangpura,Gujarati,4.4
+2,Urban Tadka - Satellite,North Indian,4.1
+3,Food Junction - Maninagar,Fast Food,3.9
+4,Cafe Aroma - Vastrapur,Cafe,4.5
+5,Royal Biryani - Paldi,Biryani,4.3
+6,The Pizza House - Bodakdev,Italian,4.0
+7,Green Leaf - Thaltej,Vegetarian,4.2
+8,Coastal Spice - Chandkheda,South Indian,4.1
+9,Sweet Treats - Bopal,Desserts,4.6
+10,Dragon Bowl - Prahlad Nagar,Chinese,3.8
+11,Tasty Corner - Gota,Street Food,4.0
+12,Punjabi Rasoi - S.G. Highway,Punjabi,4.2
+13,Dosa House - Memnagar,South Indian,4.4
+14,Burger Point - Ashram Road,Burgers,3.9
+15,Healthy Bites - Science City,Healthy Food,4.3
+16,Maharaja Restaurant - Ellis Bridge,Indian,4.1
+17,Chai Cafe - C.G. Road,Cafe,4.5
+18,Royal Dhaba - Naroda,Punjabi,4.0
+19,Italian Kitchen - Ambawadi,Italian,4.2
+20,The Food Factory - Wadaj,Multi Cuisine,3.7
+21,South Spice - Naranpura,South Indian,4.3
+22,Sizzler Hub - Thaltej,Continental,4.0
+23,Mumbai Tiffin - Vasna,Maharashtrian,4.1
+24,Dessert World - Bopal,Desserts,4.5
+25,Chinese Wok - Satellite,Chinese,3.9
+26,Gujarati Thali House - Maninagar,Gujarati,4.4
+27,Coffee Bean Cafe - Vastrapur,Cafe,4.6
+28,Biryani Express - Juhapura,Biryani,4.0
+29,Pizza Planet - Chandkheda,Pizza,4.1
+30,Food Plaza - Ghatlodia,Multi Cuisine,3.8

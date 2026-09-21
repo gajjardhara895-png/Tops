@@ -1,0 +1,13 @@
+Order_ID,Customer,Food_Item,Order_Amount,Order Status
+1001,Rahul,Pizza,350,Delivered
+1002,Priya,Biryani,280,Cancelled
+1003,Amit,Burger,220,Delivered
+1004,Neha,Dosa,180,Preparing
+1005,Ravi,Pizza,420,Cancelled
+1006,Pooja,Thali,300,Delivered
+1007,Karan,Biryani,350,Cancelled
+1008,Anjali,Pasta,260,Delivered
+1009,Vikas,Sandwich,190,Cancelled
+1010,Sneha,Gujarati Thali,320,Delivered
+1011,Dev,Chinese Combo,450,Cancelled
+1012,Riya,South Indian,240,Delivered

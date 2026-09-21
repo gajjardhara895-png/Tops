@@ -1,0 +1,11 @@
+Transaction_ID,Transaction_Ref,Customer,Order Amount,Payment_Mode
+1,TXN001,Rahul,1250.50,UPI
+2,TXN002,Priya,499.99,Wallet
+3,TXN003,Amit,2500.00,UPI
+4,TXN004,Neha,175.75,Card
+5,TXN005,Ravi,999.50,UPI
+6,TXN006,Pooja,3200.25,Net Banking
+7,TXN007,Karan,89.99,UPI
+8,TXN008,Anjali,1500.00,Card
+9,TXN009,Vikas,725.40,Wallet
+10,TXN010,Sneha,2150.80,UPI
