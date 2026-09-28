@@ -1,0 +1,27 @@
+OrderID,CustomerName,City,OrderDate,DeliveryStatus,OrderAmount,CustomerName_Phone
+ORD1001,Rahul Shah,Ahmedabad,2026-09-01,Delivered,245.5,Rahul Shah | 9876543210
+ORD1002,Priya Patel,Surat,2026-09-02,Delivered,389.0,Priya Patel | 9876501234
+ORD1003,Amit Mehta,Rajkot,2026-09-03,Out for Delivery,520.75,Amit Mehta | 9825012345
+ORD1004,Neha Joshi,Ahmedabad,2026-09-03,Delivered,178.25,Neha Joshi | 9909012345
+ORD1005,Karan Desai,Vadodara,2026-09-04,Cancelled,310.0,Karan Desai | 9898012345
+ORD1006,Riya Trivedi,Bhavnagar,2026-09-05,Delivered,455.8,Riya Trivedi | 9879012345
+ORD1007,Vivek Patel,Ahmedabad,2026-09-06,Preparing,275.0,Vivek Patel | 9812345678
+ORD1008,Anjali Shah,Surat,2026-09-06,Delivered,625.4,Anjali Shah | 9925012345
+ORD1009,Harsh Bhatt,Rajkot,2026-09-07,Delivered,199.99,Harsh Bhatt | 9898123456
+ORD1010,Pooja Modi,Ahmedabad,2026-09-08,Out for Delivery,340.6,Pooja Modi | 9825019876
+ORD1011,Dev Patel,Vadodara,2026-09-09,Delivered,285.3,Dev Patel | 9876549876
+ORD1012,Mansi Shah,Surat,2026-09-10,Cancelled,150.0,Mansi Shah | 9900012345
+ORD1013,Yash Thakkar,Ahmedabad,2026-09-11,Delivered,720.45,Yash Thakkar | 9811112233
+ORD1014,Hetal Mehta,Gandhinagar,2026-09-12,Preparing,265.75,Hetal Mehta | 9822223344
+ORD1015,Sahil Joshi,Rajkot,2026-09-13,Delivered,410.2,Sahil Joshi | 9833334455
+ORD1016,Nisha Patel,Ahmedabad,2026-09-14,Delivered,335.9,Nisha Patel | 9844445566
+ORD1017,Jay Shah,Surat,2026-09-15,Out for Delivery,590.0,Jay Shah | 9855556677
+ORD1018,Dhruv Desai,Vadodara,2026-09-16,Delivered,225.5,Dhruv Desai | 9866667788
+ORD1019,Krisha Patel,Ahmedabad,2026-09-17,Preparing,315.25,Krisha Patel | 9877778899
+ORD1020,Manav Shah,Gandhinagar,2026-09-18,Delivered,480.0,Manav Shah | 9888889900
+ORD1021,Rohan Mehta,Ahmedabad,2026-09-18,Delivered,375.35,Rohan Mehta | 9899990011
+ORD1022,Isha Joshi,Surat,2026-09-19,Cancelled,210.0,Isha Joshi | 9900001122
+ORD1023,Krutika Patel,Rajkot,2026-09-19,Delivered,560.7,Krutika Patel | 9911112233
+ORD1024,Arjun Shah,Ahmedabad,2026-09-20,Out for Delivery,295.45,Arjun Shah | 9922223344
+ORD1008,Anjali Shah,Surat,2026-09-06,Delivered,625.4,Anjali Shah | 9925012345
+,,,,,,

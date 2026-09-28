@@ -1,0 +1,25 @@
+OrderID,CustomerName,City,OrderDate,DeliveryStatus,OrderAmount
+ORD1001,Rahul Shah,Ahmedabad,2026-09-01,Delivered,245.5
+ORD1002,Priya Patel,Surat,2026-09-02,Delivered,389.0
+ORD1003,Amit Mehta,Rajkot,2026-09-03,Out for Delivery,520.75
+ORD1004,Neha Joshi,Ahmedabad,2026-09-03,Delivered,178.25
+ORD1005,Karan Desai,Vadodara,2026-09-04,Cancelled,310.0
+ORD1006,Riya Trivedi,Bhavnagar,2026-09-05,Delivered,455.8
+ORD1007,Vivek Patel,Ahmedabad,2026-09-06,Preparing,275.0
+ORD1008,Anjali Shah,Surat,2026-09-06,Delivered,625.4
+ORD1009,Harsh Bhatt,Rajkot,2026-09-07,Delivered,199.99
+ORD1010,Pooja Modi,Ahmedabad,2026-09-08,Out for Delivery,340.6
+ORD1011,Dev Patel,Vadodara,2026-09-09,Delivered,285.3
+ORD1012,Mansi Shah,Surat,2026-09-10,Cancelled,150.0
+ORD1013,Yash Thakkar,Ahmedabad,2026-09-11,Delivered,720.45
+ORD1014,Hetal Mehta,Gandhinagar,2026-09-12,Preparing,265.75
+ORD1015,Sahil Joshi,Rajkot,2026-09-13,Delivered,410.2
+ORD1016,Nisha Patel,Ahmedabad,2026-09-14,Delivered,335.9
+ORD1017,Jay Shah,Surat,2026-09-15,Out for Delivery,590.0
+ORD1018,Dhruv Desai,Vadodara,2026-09-16,Delivered,225.5
+ORD1019,Krisha Patel,Ahmedabad,2026-09-17,Preparing,315.25
+ORD1020,Manav Shah,Gandhinagar,2026-09-18,Delivered,480.0
+ORD1021,Rohan Mehta,Ahmedabad,2026-09-18,Delivered,375.35
+ORD1022,Isha Joshi,Surat,2026-09-19,Cancelled,210.0
+ORD1023,Krutika Patel,Rajkot,2026-09-19,Delivered,560.7
+ORD1024,Arjun Shah,Ahmedabad,2026-09-20,Out for Delivery,295.45
